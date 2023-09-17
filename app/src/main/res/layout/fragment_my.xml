@@ -44,7 +44,7 @@
                 android:orientation="horizontal"
                 android:paddingVertical="16dp"
                 android:paddingHorizontal="24dp"
-                >
+                
 
                 <ImageView
                     android:layout_width="28dp"
