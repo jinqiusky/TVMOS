@@ -7,7 +7,7 @@ package com.github.tvbox.osc.constant;
  * @Description :
  */
 public class URL {
-    public static final String DOMAIN_NAME_PROXY = "https://ghproxy.com/";
-    public static final String GITHUB_VERSION_PATH = "https://raw.githubusercontent.com/XiaoRanLiu3119/Release/main/TVBoxOS-Mobile/version.json";
+    public static final String DOMAIN_NAME_PROXY = "";
+    public static final String GITHUB_VERSION_PATH = "https://jihulab.com/dwei1/Release/-/raw/main/DweiTV-Mobile/version.json";
 
 }
