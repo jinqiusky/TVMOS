@@ -69,7 +69,7 @@
         android:textColor="@color/text_gray"
         style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_marginTop="20dp"
-        android:text="逛逛网站"/>
+        android:text="应用教程"/>
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btn_search_subs2"
@@ -78,7 +78,7 @@
         app:cornerRadius="20dp"
         android:textColor="@color/text_gray"
         style="@style/Widget.MaterialComponents.Button.OutlinedButton"
-        android:text="逛逛开源社区 (需魔法)"/>
+        android:text="应用更新"/>
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btn_cancel"
