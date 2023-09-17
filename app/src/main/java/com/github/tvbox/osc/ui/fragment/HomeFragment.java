@@ -151,7 +151,7 @@ public class HomeFragment extends BaseVbFragment<FragmentHomeBinding> {
                             @Override
                             public void run() {
                                 if (!mainActivity.useCacheConfig)
-                                    ToastUtils.showShort("更新订阅成功");
+                                    ToastUtils.showShort("Dwei提示：更新订阅成功");
                                 initData();
                             }
                         }, 50);
@@ -168,7 +168,7 @@ public class HomeFragment extends BaseVbFragment<FragmentHomeBinding> {
                         mHandler.post(new Runnable() {
                             @Override
                             public void run() {
-                                ToastUtils.showShort("更新订阅失败");
+                                ToastUtils.showShort("Dwei提示：更新订阅失败");
                                 initData();
                             }
                         });
