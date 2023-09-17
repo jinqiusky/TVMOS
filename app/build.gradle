@@ -27,7 +27,7 @@ android {
         variant.outputs.all { output ->
             outputFileName = rootProject.getName() + '_' + variant.versionName + '.' + variant.buildType.name
             if (variant.buildType.name == buildTypes.release.getName()) {
-                outputFileName += '_' + new Date().format("yyyyMMdd")
+                outputFileName += '.' + new Date().format("yyyyMMdd")
             }
             outputFileName += '.apk'
         }
