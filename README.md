@@ -5,23 +5,9 @@
 体验包在release
 
 
-基于
-
-* [CatVodTVOfficial](https://github.com/CatVodTVOfficial)/[TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
-* [q215613905](https://github.com/q215613905)/[TVBoxOS](https://github.com/q215613905/TVBoxOS)
 
 ## 进度
 
 - [x] 优化/适配所有UI为手机版
 
 - [ ] 其余优化
-
-
-## 源/配置/推荐
-[gao](https://github.com/gaotianliuyun/gao)
-
-
-## 部分截图
-
-![主页](https://github.com/XiaoRanLiu3119/TVBoxOS/blob/main/screenshot/home.png)
-![我的](https://github.com/XiaoRanLiu3119/TVBoxOS/blob/main/screenshot/my.png)
