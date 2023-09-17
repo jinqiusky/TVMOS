@@ -51,35 +51,41 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="项目地址"
+        android:text="更新地址"
         android:textColor="@color/color_CC000000"
         />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="https://github.com/XiaoRanLiu3119/TVBoxOS-Mobile"
+        android:autoLink="web"
+        android:linksClickable="true"
+        android:text="https://damonwei.lanzout.com/b0fgaalha"
         android:textIsSelectable="true"
         android:layout_marginTop="4dp"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="修改自"
+        android:text="使用教程"
         android:textColor="@color/color_CC000000"
         />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:linksClickable="true"
         android:lineSpacingExtra="4dp"
         android:layout_marginVertical="4dp"
         android:textIsSelectable="true"
-        android:text="https://github.com/CatVodTVOfficial/TVBoxOSC"/>
+        android:text="https://0dlj.cn/software"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:linksClickable="true"
         android:textIsSelectable="true"
-        android:text="https://github.com/q215613905/TVBoxOS"/>
+        android:text="http://dwei.c1.sidoc.cn/Dwei.html"/>
 
 </LinearLayout>
